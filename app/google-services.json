@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "257516851019",
+    "project_id": "money-eec89",
+    "storage_bucket": "money-eec89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257516851019:android:811cef0cb911c4f4baa2ce",
+        "android_client_info": {
+          "package_name": "com.willteksoftwares.dailyspendtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257516851019-niul592g0b4ibdncjj59ngbtcbnq1jcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.willteksoftwares.dailyspendtracker",
+            "certificate_hash": "35b1f87b8c09c7f8c2871691cc08268e8533d5d2"
+          }
+        },
+        {
+          "client_id": "257516851019-b7ndue0m3jvkutjglrnvjdj3hp9tvkvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsvDYgcC3XIP-SARWghyTf54nkBNljjrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257516851019-b7ndue0m3jvkutjglrnvjdj3hp9tvkvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
